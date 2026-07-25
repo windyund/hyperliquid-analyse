@@ -1,4 +1,4 @@
-[中文](REAMD-zh-cn.md)
+[中文](README-zh-cn.md)
 
 **Hyperliquid whale tracking + on-chain analytics. The leaderboard tells you who's making money. HyperIntel tells you who's worth following.**
 
