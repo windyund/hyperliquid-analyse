@@ -1,5 +1,4 @@
-
-
+[中文](REAMD-ZH.md)
 **Hyperliquid whale tracking + on-chain analytics. The leaderboard tells you who's making money. HyperIntel tells you who's worth following.**
 
 **Why "profitable ≠ worth copying"**
