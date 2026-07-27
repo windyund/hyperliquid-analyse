@@ -33,4 +33,4 @@ The problem: that single leaderboard number can't tell these three apart. That's
 
 **Best for:** Hyperliquid copy-traders, anyone who wants to follow whales without accidentally copying a Martingale gambler or a lucky one-hit wonder, and on-chain researchers.
 
-**Link:** https://app.hyperinteldata.com
+**Link:** https://hyperinteldata.com
