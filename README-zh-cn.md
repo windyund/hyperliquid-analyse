@@ -27,4 +27,4 @@ Hyperliquid 排行榜只按已实现盈亏排名，但榜上前排其实混着�
 
 适合谁：跟单 Hyperliquid 的人、想抄鲸鱼作业但怕抄到马丁/运气哥的人、做链上研究的。
 
-链接：https://app.hyperinteldata.com
+链接：https://hyperinteldata.com
